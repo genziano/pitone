@@ -1,0 +1,2 @@
+# pitone
+Python project template
